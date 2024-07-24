@@ -1,45 +1,30 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Mike Odnis",
+    "occupation": "Full Stack Developer",
+    "description": "I eat, sleep and breathe Web Development",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "I am an ambitious and driven undergraduate Computer Science student at Farmingdale State College, specializing in web development and programming. With a solid foundation in HTML, CSS, and SCSS, I craft beautiful and user-friendly websites. My proficiency in JavaScript, including TypeScript and various frameworks like React and Redux, NextJS, jQuery, and ViteJS, enables me to create dynamic web applications. My expertise also extends to modern web tools like Tailwind CSS and handling APIs using Axios. Additionally, my knowledge of Python, CPP, CS, and Java equips me for diverse software development projects. As a quick learner, I embraces new technologies with enthusiasm and is always eager to expand his skill-set. My passion for coding and problem-solving drives me to deliver exceptional results, and as a first-generation student, I take pride in my achievements and aim to be a well-rounded addition to any team.",
+    "contactmessage": "Get in touch with me!",
+    "email": "mikeodnis3242004@gmail.com",
+    "phone": "+1 516-888-8888",
     "address": {
       "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "city": "New York",
+      "state": "NY",
+      "zip": "11735"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://www.mikeodnis.dev",
+    "resumedownload": "https://docs.google.com/document/d/1BbnVKQLGoIZHTx6J14euqpxq2E_b95zEfi8r0jfbDZA/edit?usp=sharing",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/mikeodnis",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/WomB0ComB0",
         "className": "fa fa-github"
       }
     ]
@@ -48,74 +33,80 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
+        "school": "Farmingdale State College",
         "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "graduated": "Expected May 2026",
+        "description": "Currently pursuing degree"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Social PayMe",
+        "title": "Frontend Developer Intern",
+        "years": "May 2023 - Present",
+        "description": "Collaborated with developers and designers to optimize and develop upon UI/UX, existing and new code bases, and microservices. Developed skills in front-end and testing/debugging through practice and code reviews."
+      },
+      {
+        "company": "ThinkRound",
+        "title": "Full-stack Developer Team Lead",
+        "years": "May 2023 - Present",
+        "description": "Developed and implemented user-friendly and accessible web designs for Think Round's 'Center for the Human Family'. Collaborated with the extended team to design and develop high-fidelity prototypes for ongoing projects."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "95%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "95%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "90%"
+      },
+      {
+        "name": "HTML/CSS",
+        "level": "95%"
       },
       {
         "name": "Python",
         "level": "85%"
-      },
-      {
-        "name": "Git",
-        "level": "70%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "99%"
-      },
-      {
-        "name": "Web Development",
-        "level": "95%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
-        "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "title": "Fribble",
+        "category": "Web Development",
+        "image": "fribble-logo.png",
+        "url": "https://fribble.vercel.app/"
       },
       {
-        "title": "Gmail Clone (React JS)",
-        "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "title": "Creator Nebula",
+        "category": "Web Development",
+        "image": "creator-nebula.png",
+        "url": "https://web103-creator-nebula.vercel.app/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "title": "Kaleido-Snow",
+        "category": "Web Development",
+        "image": "kaleido-snow-logo.png",
+        "url": "https://letitsnow.netlify.app/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Mike is an exceptional developer with a keen eye for detail and a passion for creating innovative solutions.",
+        "user": "John Doe, Senior Developer"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Working with Mike has been a pleasure. His dedication and problem-solving skills are truly impressive.",
+        "user": "Jane Smith, Project Manager"
       }
     ]
   }
