@@ -81,19 +81,19 @@
       {
         "title": "Fribble",
         "category": "Web Development",
-        "image": "fribble-logo.png",
+        "image": "/images/projects/fribble-logo.png",
         "url": "https://fribble.vercel.app/"
       },
       {
         "title": "Creator Nebula",
         "category": "Web Development",
-        "image": "creator-nebula.png",
+        "image": "/images/projects/creator-nebula.png",
         "url": "https://web103-creator-nebula.vercel.app/"
       },
       {
         "title": "Kaleido-Snow",
         "category": "Web Development",
-        "image": "kaleido-snow-logo.png",
+        "image": "/images/projects/kaleido-snow-logo.png",
         "url": "https://letitsnow.netlify.app/"
       }
     ]
